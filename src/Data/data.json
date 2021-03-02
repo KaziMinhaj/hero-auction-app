@@ -1,0 +1,62 @@
+[{
+    "id": 1,
+    "name": "Shakib Al hasan",
+    "salary": 10000,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/201.png"
+  }, {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "salary": 9000,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/287.png"
+  }, {
+    "id": 3,
+    "name": "Mushfiqure Rahman",
+    "salary": 8000,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/491.png"
+  }, {
+    "id": 4,
+    "name": "Mustafizur Rahman",
+    "salary": 6000,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/1594.png"
+  }, {
+    "id": 5,
+    "name": "Virat Kohli",
+    "salary": 9500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/164.png"
+  }, {
+    "id": 6,
+    "name": "Steven Smit",
+    "salary": 8500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/271.png"
+  }, {
+    "id": 7,
+    "name": "Jasprit Bumrah",
+    "salary": 1500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1124.png"
+  }, {
+    "id": 8,
+    "name": "Rashid Khan",
+    "salary": 5500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/2885.png"
+  }, {
+    "id": 9,
+    "name": "Rahit Sharma",
+    "salary": 4500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/107.png"
+  }, {
+    "id": 10,
+    "name": "Martin Gaptil",
+    "salary": 2500,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/431.png"
+  }, {
+    "id": 11,
+    "name": "Babar Azam",
+    "salary": 8300,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/2759.png"
+  }, {
+    "id": 12,
+    "name": "Andrew Rassel",
+    "salary": 1560,
+    "photo": "https://resources.pulse.icc-cricket.com/players/284/177.png"
+  }
+   ]

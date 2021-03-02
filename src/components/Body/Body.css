@@ -1,0 +1,8 @@
+.body-container {
+  display: flex;
+}
+.players {
+  width: 70%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}

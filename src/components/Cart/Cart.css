@@ -1,0 +1,9 @@
+.cart {
+  background-color: lightsteelblue;
+  width: 350px;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-right: 20px;
+  position: sticky;
+  border-radius: 10px;
+}
